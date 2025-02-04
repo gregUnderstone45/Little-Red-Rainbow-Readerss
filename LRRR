@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Red Rainbow Readers - Coming Soon to Sylvania, OH!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #e63946;
+        }
+        .rainbow {
+            background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .coming-soon {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #0077cc;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="rainbow">Little Red Rainbow Readers</h1>
+        <p class="coming-soon">🏳️‍🌈 A Safe Space for Every Story! 🏳️‍🌈</p>
+        <p><strong>Coming Soon to Sylvania, OH!</strong></p>
+        <p>Join us in celebrating LGBTQ+ literature, banned books, and queer storytelling! Our shelves will be filled with everything from <span class="highlight">Drag Queen Storytime Favorites</span> to <span class="highlight">Books Banned in Ohio.</span></p>
+        <h2>Our Mission</h2>
+        <p>Little Red Rainbow Readers is dedicated to spreading diversity and inclusion by providing young readers access to stories that reflect a wide range of identities and experiences. In the face of increasing book bans in red states, our goal is to ensure that every child and teen has the opportunity to explore literature that promotes acceptance, love, and equality.</p>
+        <h2>Now Hiring!</h2>
+        <p>We're looking for passionate book lovers to join our team! Apply now to be part of this fabulous journey.</p>
+        <h2>Community Testimonials</h2>
+        <p>📢 "I'm so excited to finally have a bookstore in town that highlights diverse voices! Representation matters." - Jamie L.</p>
+        <p>📢 "As a parent, I'm thrilled my kids will have access to books that reflect different perspectives and experiences." - Sarah M.</p>
+        <p>📢 "It's about time Sylvania got a space like this. Looking forward to supporting it!" - Daniel K.</p>
+        <div class="footer">
+            <p>📍 Location TBD | Grand Opening Details Coming Soon!</p>
+            <p>Follow us for updates: <a href="#">@LittleRedRainbowReaders</a></p>
+        </div>
+    </div>
+</body>
+</html>
